@@ -1,0 +1,4 @@
+name = "Ridder"
+uuid = "fab533a2-cf2d-4166-a827-f7a9728eee37"
+authors = ["AlanFreed <alan.d.freed@proton.me>"]
+version = "0.1.0"
